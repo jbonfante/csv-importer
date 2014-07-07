@@ -14,6 +14,7 @@ setup(name='django-adaptors',
       license = "BSD",
       keywords = "CSV XML Django adaptor",
       packages=['adaptor'],
+      download_url=['https://github.com/jbonfante/django-adaptors.git'],
       classifiers=[
         "Development Status :: 3 - Alpha",
         "Topic :: Utilities",
